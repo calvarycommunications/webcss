@@ -14,11 +14,11 @@
     --form-invalid: #dc3545;
     --form-btn-primary-text: #fff;
     --form-btn-primary-bgcolor: #0076a9;
-    --form-btn-primary-hover: #4684ca;
+    --form-btn-primary-hover: #0076a9;
     --form-btn-primary-active: #0076a9;
-    --form-btn-secondary-text: #384249;
+    --form-btn-secondary-text: #0076a9;
     --form-btn-secondary-bgcolor: #fff;
-    --form-btn-secondary-hover: #f6f7f9;
+    --form-btn-secondary-hover: #0076a9;
     --form-btn-secondary-active: #ededed;
     --form-btn-disabled: #657783;
     --card-bgcolor: #fff;
