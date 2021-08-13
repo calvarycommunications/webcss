@@ -5,7 +5,7 @@
     --root-text-color: #565656;
     --root-font-size: 14px;
     --root-line-height: 24px;
-    --primary: #2196f3;
+    --primary: #0076a9;
     --secondary: #88a0af;
     --form-field-bgcolor: #f9f9f9;
     --form-field-border: #b4c5cf;
@@ -20,7 +20,7 @@
     --form-btn-secondary-bgcolor: #fff;
     --form-btn-secondary-hover: #0076a9;
     --form-btn-secondary-active: #ededed;
-    --form-btn-disabled: #657783;
+    --form-btn-disabled: #0076a9;
     --card-bgcolor: #fff;
     --card-title-color: #696969;
     --card-header-bgcolor: #6c757d;
